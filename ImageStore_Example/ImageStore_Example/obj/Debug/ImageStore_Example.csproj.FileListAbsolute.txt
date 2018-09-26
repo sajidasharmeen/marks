@@ -1,0 +1,18 @@
+c:\users\hina\documents\visual studio 2013\Projects\ImageStore_Example\ImageStore_Example\obj\Debug\ImageStore_Example.csprojResolveAssemblyReference.cache
+c:\users\hina\documents\visual studio 2013\Projects\ImageStore_Example\ImageStore_Example\bin\ImageStore_Example.dll.config
+c:\users\hina\documents\visual studio 2013\Projects\ImageStore_Example\ImageStore_Example\bin\ImageStore_Example.dll
+c:\users\hina\documents\visual studio 2013\Projects\ImageStore_Example\ImageStore_Example\bin\ImageStore_Example.pdb
+c:\users\hina\documents\visual studio 2013\Projects\ImageStore_Example\ImageStore_Example\obj\Debug\ImageStore_Example.dll
+c:\users\hina\documents\visual studio 2013\Projects\ImageStore_Example\ImageStore_Example\obj\Debug\ImageStore_Example.pdb
+\\server1\Faculty Data\Hina Siddiqui\ASP.Net\ImageStore_Example\ImageStore_Example\bin\ImageStore_Example.dll.config
+\\server1\Faculty Data\Hina Siddiqui\ASP.Net\ImageStore_Example\ImageStore_Example\bin\ImageStore_Example.dll
+\\server1\Faculty Data\Hina Siddiqui\ASP.Net\ImageStore_Example\ImageStore_Example\bin\ImageStore_Example.pdb
+\\server1\Faculty Data\Hina Siddiqui\ASP.Net\ImageStore_Example\ImageStore_Example\obj\Debug\ImageStore_Example.csprojResolveAssemblyReference.cache
+\\server1\Faculty Data\Hina Siddiqui\ASP.Net\ImageStore_Example\ImageStore_Example\obj\Debug\ImageStore_Example.dll
+\\server1\Faculty Data\Hina Siddiqui\ASP.Net\ImageStore_Example\ImageStore_Example\obj\Debug\ImageStore_Example.pdb
+C:\Users\sajida\Desktop\ImageStore_Example\ImageStore_Example\bin\ImageStore_Example.dll.config
+C:\Users\sajida\Desktop\ImageStore_Example\ImageStore_Example\bin\ImageStore_Example.dll
+C:\Users\sajida\Desktop\ImageStore_Example\ImageStore_Example\bin\ImageStore_Example.pdb
+C:\Users\sajida\Desktop\ImageStore_Example\ImageStore_Example\obj\Debug\ImageStore_Example.csprojResolveAssemblyReference.cache
+C:\Users\sajida\Desktop\ImageStore_Example\ImageStore_Example\obj\Debug\ImageStore_Example.dll
+C:\Users\sajida\Desktop\ImageStore_Example\ImageStore_Example\obj\Debug\ImageStore_Example.pdb
